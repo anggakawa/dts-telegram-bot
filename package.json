@@ -1,0 +1,21 @@
+{
+  "name": "course_assisstant",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.503.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "telegraf": "^3.32.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
